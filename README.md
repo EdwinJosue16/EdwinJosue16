@@ -17,7 +17,7 @@
 - Video Games, APIs and webservices development
 - AI
 
-### Portafolio
+### Portfolio
 
 - [Go to site!](https://edwinjosue16.github.io/) 
 
