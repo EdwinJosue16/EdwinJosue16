@@ -1,10 +1,6 @@
 ## Hello everyone! 👋
 
-- My name is Edwin Brenes and I'm Backend Software Developer and Matemathics Teacher
-
-- Currently I'm senior Computer Science student at University of Costa Rica (UCR)
-
-- I have a bachelor's degree in Mathematics Teaching and I'm working on my final final degree project
+- My name is Edwin Brenes and I'm Cloud Software Engineer and Matemathics Professor
 
 ### I’m interested in:
 
